@@ -1,0 +1,38 @@
+body {
+  background-color: #121212;
+  color: #eeeeee;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+h1 {
+  text-align: center;
+  color: #00bcd4;
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 50%;
+  border-radius: 50px;
+  margin-top: 20px;
+  
+}
+header {
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  text-decoration: underline;
+  padding: 10px;
+  color: #00bcd4;
+  text-align: center;
+}
+
+section {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}

@@ -1,0 +1,66 @@
+body {
+  background-color: #121212;
+  color: #eeeeee;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+h1 {
+  text-align: center;
+  color: #00bcd4;
+  margin-bottom: 20px;
+}
+
+h2 {
+  text-decoration: underline;
+  padding: 10px;
+  color: #00bcd4;
+
+}
+
+button {
+  margin-top: 10px;
+  width: 50;
+  background-color: #00bcd4;
+  border: none;
+  padding: 12px;
+  
+  color: #121212;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  font-size: 1.1em;
+  text-align: center;
+}
+
+footer{
+  text-align: center;
+}
+
+img{
+  max-width: 50%;
+  border-radius: 50px;
+  margin-top: 20px;
+
+
+}
+
+
+
+section {
+  margin-bottom: 40px;
+}
+
+.PhotodeJonh{
+  margin-left: 35%;
+ 
+  
+  
+}
+
+section {
+  margin-bottom: 60px;
+  margin-left: 40px;
+}
